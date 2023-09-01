@@ -1,2 +1,2 @@
-this is the first version of test
-version:1.00
+this is the second version of test
+version:1.01
